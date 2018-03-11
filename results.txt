@@ -1,0 +1,13 @@
+Classification error rates after fitting a logistic regression model using gradient descent:
+
+preprocessing stnd(z):
+  train error: 0.06686236138290932
+  test error: 0.06766428106701367
+  
+preprocessing log:
+  train error: 0.058382257012393995
+  test error: 0.05074821080026025
+  
+ preprocessing binary:
+  train error: 0.06490541422048271
+  test error: 0.06636304489264802
